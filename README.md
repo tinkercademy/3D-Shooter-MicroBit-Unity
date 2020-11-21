@@ -15,3 +15,5 @@ Note: In this project I have use Ardity sdk (https://github.com/DWilches/Ardity)
 Game Controls (Included inside the game):
 A joystick bit controller to control the plane
 A microbit to connect with the joystick bit
+
+Done By Shi heng
